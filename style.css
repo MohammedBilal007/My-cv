@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(68, 8, 50, 0.379);
+}
+h1{
+    color: aliceblue;
+    font: size 20px;
+}
+h2{ color: aliceblue;
+}
+p{ color: antiquewhite;
+}
+ul{color: antiquewhite;}
+ol{color: antiquewhite;}
+
+table, form{
+    color: antiquewhite;
+}
