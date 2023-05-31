@@ -15,3 +15,10 @@ ol{color: antiquewhite;}
 table, form{
     color: antiquewhite;
 }
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(207, 214, 101);
+    border-width: 10px;
+    width: 10%;
+}
